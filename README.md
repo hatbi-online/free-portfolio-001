@@ -1,14 +1,12 @@
-# Portfolio Responsive Complete
-## [Watch it on youtube](https://youtu.be/AKNvTxWOdKw)
+# Responsive Portfolio Template Miễn Phí Bởi Hạt Bí
+## [Xem thêm các template khác](https://github.com/hati-online)
 ### Portfolio Responsive Complete
 
-- Responsive Personal Portfolio Website HTML CSS & JavaScript.
-- Contains animations when scrolling.
-- Smooth scrolling in each section.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
-
-💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/@Bedimcode)
+- Responsive Portfolio Template
+- Sử dụng HTML, CSS và JavaScript.
+- Có chứa animation và hiệu ứng cuộn.
+- Cuộn trang mượt mà.
+- Hiển thị chính xác trên mọi thiết bị.
 
 ![preview img](/preview.png)
 
